@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OFwz2bUSIDjsQvkngIIBqZrOJw/LncbpKCNkZYYzPhxUCd9xlEWh4Hl2injkxiTQvXld7tiZqNdewnPLaTE+tw==",
+  "success": true,
+  "projectFilePath": "E:\\New Project\\Explanation2\\Explanation2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\M E H D I\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}
